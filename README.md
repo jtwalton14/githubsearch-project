@@ -1,6 +1,6 @@
-# githubsearch
-githubsearch project made with angular
+# Github Search
+## Justin Walton | Portfolio Project
 
-### Justin Walton Portfolio Project
------
-**Purpose:** Learn MEAN Stack and connecting with APIs
+Eduonix Angular tutorial project. 
+
+Technologies used: Angular2, Node.js, HTML, CSS, Typescript
